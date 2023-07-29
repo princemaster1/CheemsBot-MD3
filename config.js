@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['+254768371432'] //ur owner number
+global.ownername = "𝛲𝑅𝛪𝛮𝐶𝛯"
+global.ytname = "YT: princemaster1" //ur yt chanel name
+global.socialm = "GitHub: princemaster1" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Cybēr_Drōgōñ" //ur bot name
+global.websitex = "https://princemaster.bio.link" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "𝛲𝑅𝛪𝛮𝐶𝛯"
+global.author = "𝛭𝛥𝑆𝑇𝛯𝑅"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.reactmoji = "🇰🇪"
+global.ownertag = ['254768371432'] //ur owner tag
+global.ownernummenu = ['254768371432'] //ur owner number in menu and all
+global.watermark = "𝛲𝑅𝛪𝛮𝐶𝛯 𝛭𝛥𝑆𝑇𝛯𝑅" //ur watermark
+global.botscript = "https://princemaster.bio.link"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
